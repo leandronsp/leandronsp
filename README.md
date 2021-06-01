@@ -1,9 +1,6 @@
-### Skills
-
-- Ruby
-- Elixir
-- ES6/Typescript
-- PostgreSQL
-- Docker
-- Kubernetes
-- AWS
+<div>
+  <a href="https://github.com/leandronsp">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=leandronsp&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandronsp&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
