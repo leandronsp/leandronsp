@@ -16,15 +16,15 @@ Here I highlight some projects I did some contribution:
 ## Personal projects
 Following I can show some of my personal projects:
 
+### adelnor
+adelnor is a dead simple, yet Rack-compatible, HTTP server written in Ruby.
+
+[leandronsp/adelnor](https://github.com/leandronsp/adelnor)
+
 ### yata
 It's the *cliché* "ToDo list", a simple project written in pure Ruby with no frameworks with the intent to teach fundamental topics of web in general in my mentoring sessions. 
 
 [leandronsp/yata](https://github.com/leandronsp/yata)
-
-### yacs
-"Yet another city search", a simple full-text search that performs search across 12 millions of cities, using only PostgreSQL and provided with a simple Ruby app.
-
-[leandronsp/yacs](https://github.com/leandronsp/yacs)
 
 ### morphine
 A neural network written in Elixir. It was very helpful because I could get rid of the Brazilian market during the Brazil's political crisis circa 2016.
