@@ -13,34 +13,6 @@ Here I highlight some projects I did some contribution:
 * [emqx/emqtt](https://github.com/emqx/emqtt) - an MQTT client library written in Erlang
 * [senny/sablon](https://github.com/senny/sablon) - a document template processor for Word written in Ruby
 
-## Personal projects
-Following I can show some of my personal projects:
-
-### adelnor
-adelnor is a dead simple, yet Rack-compatible, HTTP server written in Ruby.
-
-[leandronsp/adelnor](https://github.com/leandronsp/adelnor)
-
-### yata
-It's the *cliché* "ToDo list", a simple project written in pure Ruby with no frameworks with the intent to teach fundamental topics of web in general in my mentoring sessions. 
-
-[leandronsp/yata](https://github.com/leandronsp/yata)
-
-### morphine
-A neural network written in Elixir. It was very helpful because I could get rid of the Brazilian market during the Brazil's political crisis circa 2016.
-
-[leandronsp/morphine](https://github.com/leandronsp/morphine)
-
-### endinir
-The missing pieces for understanding computer engineering topics with practical examples. Also used in my mentoring sessions.
-
-[leandronsp/endinir](https://github.com/leandronsp/endinir)
-
-### fun
-A miscellaneous project where I experiment on a variety of programming languages and tools over my entire career, ranging from C, Java and Ruby to Haskell, Clojure and Elixir. It's also my meetpoint of practicing algorithms and data structures. 
-
-[leandronsp/fun](https://github.com/leandronsp/fun)
-
 ## Github stats
 
 <div>
