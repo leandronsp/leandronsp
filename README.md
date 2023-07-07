@@ -4,7 +4,7 @@
 
 Also, I have experience mentoring and teaching programming languages to newcomers, where my main goal is to help them to understand fundamental topics in computer engineering with ease. 
 
-Frequently, I use to write technical content in my [personal blog](http://leandronsp.com) as well as in my [Twitter account](http://twitter.com/leandronsp). 
+Frequently, I use to write technical content in my [personal blog](http://leandronsp.com), [dev.to/leandronsp](https://dev.to/leandronsp) as well as in my [Twitter account](http://twitter.com/leandronsp). 
 
 ## Open source contributions
 Here I highlight some projects I did some contribution:
