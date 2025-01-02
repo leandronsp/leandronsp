@@ -13,13 +13,14 @@
 ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat&logoColor=000&logo=rust)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logoColor=fff&logo=gnubash)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-007AAC?style=flat&logoColor=fff&logo=assemblyscript)&nbsp;
-
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logoColor=fff&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logoColor=fff&logo=kubernetes)&nbsp;
 
 <hr>
 
 <p><b>Highlights</b></p>
 
-⚙️ Specialized in backend systems, APIs, and performance tuning, with focus on full-stack development
+⚙️ Specialized in backend systems, APIs, SRE and performance tuning, with focus on full-stack development
 
 ✍️ Published [80+ technical articles](https://dev.to/leandronsp) on platforms like DEV.to, covering programming in general, computer fundamentals, concurrency, cloud computing and more. Some articles are written in English, while others are in Portuguese
 
